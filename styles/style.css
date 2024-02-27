@@ -14,7 +14,6 @@
   font-weight: 400;
   letter-spacing: 0em;
   text-align: left;
-  padding-top: 10px;
 }
 
 .header__links-list {
@@ -51,7 +50,7 @@
   display: flex;
   flex-direction: column;
   justify-self: end;
-  row-gap:3px;
+  row-gap: 3px;
   font-size: 18px;
   font-weight: 400;
   font-style: normal;
@@ -274,8 +273,7 @@
   font-size: 40px;
   text-transform: uppercase;
   color: #000;
-  padding-bottom: 100px;
-
+  padding-bottom: 98px;
 }
 
 .about__text {
@@ -292,13 +290,9 @@
 .footer {
   display: flex;
   justify-content: space-between;
-  padding: 45px 50px;
-
+  padding: 41px 50px;
 }
 
-.footer__menu {
-
-}
 
 .footer__menu-list {
   list-style: none;
@@ -311,17 +305,11 @@
 .footer__menu-list-item {
   text-underline-offset: 4px;
   padding-right: 36px;
-
-}
-
-.footer__menu-link {
-
 }
 
 
 .footer__menu-link_active {
   text-decoration: none;
-
 }
 
 .footer__social-list {
@@ -330,15 +318,6 @@
   gap: 48px;
 }
 
-.footer__social-list-item {
-
-}
-
-.footer__social-link {
-
-}
-
 .footer__social-icon {
   max-height: 48px;
 }
-
