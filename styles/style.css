@@ -5,7 +5,7 @@
   padding: 92px 24px 96px 24px;
   max-width: 1052px;
   margin: 0 auto;
-} 
+}
 
 .header_menu {
   font-style: normal;
@@ -26,11 +26,11 @@
 }
 
 .header__link_active .header__link {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .header__links-list-item_no-bullit {
-    list-style-type: none;
+  list-style-type: none;
 }
 
 .header__logo {
@@ -78,7 +78,7 @@
   z-index: 0;
   background-color: rgb(0 0 0/0.6);
   inset: 0;
-} 
+}
 
 .cover__title {
   z-index: 1;
@@ -96,8 +96,8 @@
 }
 
 .aligned-text_center {
- text-align: center;
- padding-top: 10px;
+  text-align: center;
+  padding-top: 10px;
 }
 
 .aligned-text_right {
